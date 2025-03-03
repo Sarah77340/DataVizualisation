@@ -11,7 +11,7 @@ Les principales fonctionnalités de l'application sont :
 - Une **analyse des données** : fréquence des visites, accessibilité, types d'activités.
 - Une **carte interactive** des lieux participant à l'événement.
 
-## Améliorations
+## Améliorations apoortées
 - Ajout d'un **menu de navigation** pour faciliter l'exploration des sections.
 - Intégration de **visualisations interactives** avec Plotly et Seaborn.
 - Ajout d'un **filtrage avancé** pour les événements sur la carte.
